@@ -1092,7 +1092,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libfastcvopt \
     libthermalclient \
-    libprotobuf-cpp-lite-3.9.1 \
     CneApp \
     IWlanService \
     TimeService \
